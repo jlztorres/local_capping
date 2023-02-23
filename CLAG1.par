@@ -14,4 +14,4 @@ D:\001_CLOCAL_GRP1\clsilver_mr20221.out                             '\output fil
 140,155,35,0,135,115,55,36,45                                             '\azimuth of search orientation per zone
 2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5                                       '\Anisotropy ratios
 1                                                                         '\Exclude data from the same drillhole
-0                                                                         '\Option to weight data by search expansion (1/Number of expansion)
+0                                                                         '\Option to weight data by search expansion (1/Number of expansion)       
